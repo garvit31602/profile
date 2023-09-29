@@ -124,8 +124,9 @@
   }
 
   #search{
-    background-color: white;
-    color: black;
-    height: 25px;
+    background-color: var(--black);
+    color: var(--white);
+    height: 35px;
+    width: 350px;
   }
   
